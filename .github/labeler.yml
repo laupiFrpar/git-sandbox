@@ -1,2 +1,3 @@
 bump:
-  - any: ['lib/folder1/*', 'lib/folder3/*']
+  - 'lib/folder1/*'
+  - 'lib/folder3/*'
